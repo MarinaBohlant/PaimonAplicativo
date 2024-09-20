@@ -7,8 +7,7 @@ https://github.com/MoisesdosSantosCruz/APP-Paimon/assets/128054719/572b43f9-f50a
 
 - Vídeo das novas alterações do app (3ºbimestre)
 
-
-
+Link para assistir no YouTube: https://youtu.be/NvrE7-qnZMQ?si=8sEbG9KDP8LWAWPi
 
 Alterações: 
 - O layout do app foi atualizado e o código foi refeito utilizando classes e listas;
